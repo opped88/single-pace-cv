@@ -1,2 +1,2 @@
-# single-pace-cv
-Single Page CV - Roadmap Frontend
+https://github.com/opped88/single-page-cv
+https://roadmap.sh/projects/single-page-cv
